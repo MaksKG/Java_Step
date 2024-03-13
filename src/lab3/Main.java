@@ -70,7 +70,7 @@ public class Main {
         map.put("one", 1);
         map.put("two", 2);
 
-        map.clear();
+//        map.clear();
 
         if (map.isEmpty()) {
             System.out.println("Map is empty");
