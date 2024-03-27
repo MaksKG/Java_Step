@@ -1,8 +1,9 @@
 package lab3;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.HashSet;
-import java.util.ArrayList;
+import.java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
